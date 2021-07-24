@@ -8,4 +8,4 @@
 
 #### The finished demo will look something like this:
 
-<img src="./img/SL.png" width=791px height=397px>
+<img src="/img/SL.PNG" width=791px height=397px>
